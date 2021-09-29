@@ -1,1 +1,1 @@
-# decomopse
+# decompose
